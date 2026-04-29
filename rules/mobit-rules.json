@@ -1,7 +1,7 @@
 {
   "exclusion_system": {
     "domain_patterns": [
-      "https://app.24sevenoffice.com/*"
+      "^https:\\/\\/[^/]*\\.24sevenoffice\\.com(/.*)?$"
     ]
   }
 }
